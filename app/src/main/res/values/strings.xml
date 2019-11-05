@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">hw8</string>
+    <string name="BMI_V_TEXT">你的BMI指數為</string>
+    <string name="Result_TEXT">檢測結果為</string>
+</resources>
